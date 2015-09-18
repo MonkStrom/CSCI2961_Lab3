@@ -13,3 +13,5 @@
    -git log --graph --oneline --decorate
 
 		-Displays commits and messages for current branch
+		
+3. Spoon-Knife: https://github.com/MonkStrom/Spoon-Knife
