@@ -15,3 +15,5 @@
 		-Displays commits and messages for current branch
 		
 3. Spoon-Knife: https://github.com/MonkStrom/Spoon-Knife
+
+4. TODO: Add screenshots of Learn Git Branching
