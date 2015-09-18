@@ -4,12 +4,12 @@
 
 2. Compare gitk and gitk --all to git log --graph --oneline --decorate
 
--By being a GUI, gitk provides more information about each commit
+   -By being a GUI, gitk provides more information about each commit
 
 	-Changes made, time of commit, user who committed, and more
 
--gitk --all gives information for all branches it can read
+   -gitk --all gives information for all branches it can read
 
--git log --graph --oneline --decorate
+   -git log --graph --oneline --decorate
 
 	-Displays commits and messages for current branch
