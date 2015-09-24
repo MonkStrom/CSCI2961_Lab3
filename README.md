@@ -17,3 +17,5 @@
 3. Spoon-Knife: https://github.com/MonkStrom/Spoon-Knife
 
 4. TODO: Add screenshots of Learn Git Branching
+
+5. TODO: Write understanding of git diff and git tag
