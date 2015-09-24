@@ -16,8 +16,14 @@
 		
 3. Spoon-Knife: https://github.com/MonkStrom/Spoon-Knife
 
-4. TODO: Add screenshots of Learn Git Branching
+4. ![Alt text](https://github.com/MonkStrom/CSCI2961_Lab3/blob/master/GB1.png)
+ 
+![Alt text](https://github.com/MonkStrom/CSCI2961_Lab3/blob/master/GB2.png)
 
-5. courseproject: https://github.com/MonkStrom/courseproject
+![Alt text](https://github.com/MonkStrom/CSCI2961_Lab3/blob/master/GB3.png)
 
-6. Story: https://github.com/MonkStrom/Story
+![Alt text](https://github.com/MonkStrom/CSCI2961_Lab3/blob/master/GB4.png)
+
+5.courseproject: https://github.com/MonkStrom/courseproject
+
+6.Story: https://github.com/MonkStrom/Story
