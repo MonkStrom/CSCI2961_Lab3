@@ -24,6 +24,6 @@
 
 ![Alt text](https://github.com/MonkStrom/CSCI2961_Lab3/blob/master/GB4.png)
 
-5.courseproject: https://github.com/MonkStrom/courseproject
+5. courseproject: https://github.com/MonkStrom/courseproject
 
-6.Story: https://github.com/MonkStrom/Story
+6. Story: https://github.com/MonkStrom/Story
